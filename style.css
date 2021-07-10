@@ -75,9 +75,7 @@ p{
     padding-bottom: 5px;
     padding-left: 9px;
     padding-right: 9px;
-    font-family: 'Bona Nova', serif;
-
-    font-size: 20px;
+    font-family: 'Bona Nova', serif;  font-size: 20px;
 }
 
 .links: hover {
